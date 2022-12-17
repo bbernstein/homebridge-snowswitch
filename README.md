@@ -1,3 +1,8 @@
+# This plugin is deprecated, please use SnowSense
+
+Please change to using [SnowSense](https://github.com/bbernstein/homebridge-snowsense) instead of this plugin.
+That plugin is better supported and works with OpenWeatherMap rather than DarkSky.
+
 # homebridge-snowswitch
 A switch that turns on when it's showing out using local weather forecast
 
